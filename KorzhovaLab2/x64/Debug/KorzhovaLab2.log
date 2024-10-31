@@ -1,0 +1,10 @@
+﻿  Building.cpp
+  Client.cpp
+  Employee.cpp
+  Manager.cpp
+  Person.cpp
+  Source.cpp
+D:\ХНУ\2 Курс\OOP\Korzhova\KorzhovaLab4\Source.cpp(11,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  TourAgen.cpp
+  Generating Code...
+  KorzhovaLab2.vcxproj -> D:\ХНУ\2 Курс\OOP\Korzhova\KorzhovaLab4\x64\Debug\KorzhovaLab2.exe
